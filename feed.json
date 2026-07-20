@@ -1,0 +1,49 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "triantium.ddns.net",
+    "description": "",
+    "home_page_url": "https://triantium.ddns.net",
+    "feed_url": "https://triantium.ddns.net/feed.json",
+    "user_comment": "",
+    "icon": "https://triantium.ddns.net/media/website/favicon.svg",
+    "author": {
+        "name": "Manuel Müller"
+    },
+    "items": [
+        {
+            "id": "https://triantium.ddns.net/about-me.html",
+            "url": "https://triantium.ddns.net/about-me.html",
+            "title": "About Me",
+            "summary": "Geboren in Neuburg, gezogen in einem kleinen 'germanischen-bayrischen' Dorf , Abi im Descartes Gymnasiuim, Grundwehrdienst bei der Luftwaffe, Abstecher in den Maschinenbau und versunken in der Informatik. Seit ~2016 Softwareentwickler und Operator in der Geek in Business GmbH Seit 2004 in der FF Bertoldsheim Von&hellip;",
+            "content_html": "<p>Geboren in Neuburg, gezogen in einem kleinen 'germanischen-bayrischen' Dorf , Abi im Descartes Gymnasiuim, Grundwehrdienst bei der Luftwaffe, Abstecher in den Maschinenbau und versunken in der Informatik.</p>\n<p>Seit ~2016 Softwareentwickler und Operator in der <a href=\"https://geekinbusiness.de/entwickler/team.html#top\">Geek in Business GmbH</a></p>\n<ul>\n<li>Sprachen: Java, C, Lua, Go, Rust</li>\n<li>Continous Integration und Development mit Jenkins und TektonCD.</li>\n<li>Running on Linux (Ubuntu/Arch)</li>\n<li>Wenn ihr Fragen zu Windows habt braucht ihr jemand anderen.</li>\n</ul>\n<p>Seit 2004 in der FF Bertoldsheim</p>\n<p>Von 2015 - 2022 Kommandant der FF Bertoldsheim</p>\n<p>Seit 2022 Kommandant der FF Bertoldsheim</p>\n<ul>\n<li>Anpassung an das aktuelle und zukünftige Einsatzgeschehen</li>\n<li>Ausbilder in der Modularen Trupp-Ausbildung</li>\n<li><span style=\"text-decoration: line-through;\">Planen des 150-jährigem Festes</span></li>\n</ul>\n<p>Feuerwehrlehrgänge</p>\n<ul>\n<li>Truppmann</li>\n<li>Truppführer</li>\n<li>Maschinist</li>\n<li>Atemschutzgeräteträger</li>\n<li>Gruppenführer</li>\n<li>Leiter einer Feuerwehr</li>\n<li>Aufbaulehrgänge</li>\n</ul>\n<p>Hobbies:</p>\n<ul>\n<li>Gaming (RTS, Adventures, Roguelikes)</li>\n<li>Konzerte und Festivals (hauptsächlich Metal)</li>\n<li>3D-Druck und Design</li>\n<li>Kaffee trinken</li>\n<li>Kühe umschubsen</li>\n</ul>\n<p>Backlog:</p>\n<ul>\n<li>Ein ganzer Stapel Bücher die ungelesen rumliegen</li>\n<li><span style=\"text-decoration: line-through;\">Rucksacktrip nach Kambodscha und ans Nordkap</span></li>\n<li>Der Steam Pile of Shame</li>\n<li>---</li>\n</ul>\n<p>Weitere Themen für Kaffee-/Raucherpausen:</p>\n<ul>\n<li>Technik allgemein</li>\n<li>Lokalpolitik und sonstige spaßige Themen aus der Umgebung</li>\n<li>Landwirtschaft (ohne Simulator)</li>\n<li>Wetter</li>\n</ul>\n<p>Links:</p>\n<ul>\n<li><a href=\"https://github.com/triantium\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a></li>\n<li><a href=\"https://steamcommunity.com/id/triantium/\">Steam</a><a href=\"https://www.instagram.com/triantium/\"></a></li>\n<li><a href=\"https://www.twitch.tv/triantium\"></a><a href=\"https://www.twitch.tv/triantium\">Twitch</a></li>\n<li><a href=\"https://listenbrainz.org/user/triantium/\" target=\"_blank\" rel=\"noopener noreferrer\">ListenBrainz</a></li>\n<li style=\"display: none;\"><a href=\"https://youtu.be/dQw4w9WgXcQ\">OnlyFans</a></li>\n</ul>\n<p>Messenger:</p>\n<ul>\n<li>Jami (3414c082c51dabfda184a9d74f58a635c062c8b2)</li>\n<li>Signal </li>\n<li>Good Old Email (<a href=\"https://triantium.ddns.net/public.pgp\" download>GPG</a>)</li>\n</ul>\n<p> </p>",
+            "author": {
+                "name": "Manuel Müller"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-15T18:30:00+02:00",
+            "date_modified": "2024-09-10T17:38:16+02:00"
+        },
+        {
+            "id": "https://triantium.ddns.net/die-jagd-nach-rss-feeds.html",
+            "url": "https://triantium.ddns.net/die-jagd-nach-rss-feeds.html",
+            "title": "Die Jagd nach RSS-Feeds",
+            "summary": "Nachdem mir letztens meine Tiny Tiny RSS abgeraucht ist, und sie inzwischen lauffähig in nen trendy Container gewandert ist musste die vorherigen Feeds wieder zusammengesucht werden. Warum muss ich das ganze wieder machen, ratet mal wessen Backup der Datenbank anderthalb Jahre alt ist. Aber nachdem meine Defintion&hellip;",
+            "content_html": "<p>Nachdem mir letztens meine <a href=\"https://tt-rss.org/\" title=\"tt-rss\">Tiny Tiny RSS</a> abgeraucht ist, und sie inzwischen lauffähig in nen trendy Container gewandert ist musste die vorherigen Feeds wieder zusammengesucht werden.<br><br>Warum muss ich das ganze wieder machen, ratet mal wessen Backup der Datenbank anderthalb Jahre alt ist. Aber nachdem meine Defintion von wichtigen Daten ist:</p>\n<blockquote>\n<p>Wichtige Daten haben ein Backup.</p>\n</blockquote>\n<p>hab ich mit mir selbst kein Mitleid. Dabei ist bewusst geworden, dass sich Feeds nach ihrer Auffindbarkeit beurteilen lassen. Manche Betreiber stellen sie sichtbar zur Verfügung oder zumindenst ohne den Seitenquelltext zu bemühen. Dazu gehören unter anderen Open-Source Sofwareprojekte, Newsseiten und Blogs. Sie wollen die Inhalte einfach zur Verfügung stellen und behalten das archaische Format hoch.</p>\n<p>Die zweite Kategorie sind die Seiten, die den Feed im Quelltext versteckt haben, meistens im html-header, aber immer noch gut auffindbar. Meistens sieht der Block wie folgt aus: </p>\n<pre id=\"line1\">&lt;html&gt;<br>&lt;head&gt;<br>...<br>&lt;<span class=\"start-tag\">link</span> <span class=\"attribute-name\">rel</span>=\"<a class=\"attribute-value\">alternate</a>\" <span class=\"attribute-name\">type</span>=\"<a class=\"attribute-value\">application/atom+xml</a>\" <span class=\"attribute-name\">href</span>=\"<a class=\"attribute-value\" href=\"view-source:https://triantium.ddns.net/feed.xml\">https://triantium.ddns.net/feed.xml</a>\"&gt;<br>&lt;<span class=\"start-tag\">link</span> <span class=\"attribute-name\">rel</span>=\"<a class=\"attribute-value\">alternate</a>\" <span class=\"attribute-name\">type</span>=\"<a class=\"attribute-value\">application/json</a>\" <span class=\"attribute-name\">href</span>=\"<a class=\"attribute-value\" href=\"view-source:https://triantium.ddns.net/feed.json\">https://triantium.ddns.net/feed.json</a>\"&gt;<br>...<br>&lt;/head&gt;<br>&lt;body&gt;...<br>&lt;/body&gt;<br>&lt;html&gt;</pre>\n<p> Und ja ich gehöre wohl auch zu der Sorte ^^. Sie sind noch relativ schnell auffzufinden. Ich gehe dazu wie folgt vor: </p>\n<ol>\n<li>Öffnen der gewünschten Seite im Webbrowser (in meinem Fall Firefox)</li>\n<li>Anzeigen des Quelltextes  mit CTRL + U </li>\n<li>Aufrufen der Suchmaske mit CTRL + F</li>\n<li>suche \"alternate\" und hoffe was zu finden.</li>\n<li>suche \"rss\" und hoffe was zu finden.</li>\n<li>suche \"atom\" und hoffe was zu finden.</li>\n<li>verwirrtes dreinschauen und alternativen überlegen</li>\n</ol>\n<p>Der letze Punkt bekommt irgendwann seinen eigenen Blogeintrag. Wie ihr seht ist da schon etwas mehr Arbeit auf eurer Seite nötig als nur klickbaren Links zu folgen. Aber wenigstens sind sie da, egal ob sie von einem CMS oder was auch immer generiert worden sind. Mit der Methode habe ich bei den meisten Seiten, die irgendeine Art der Nachrichtendarbietung haben noch Erfolg.<br><br>Eine Erleichterung ist es manchmal wenn mann die vorkonfigurierten Feeds der diversen CMS kennt. Selbst wenn der Link nirgendwo auftaucht. </p>\n<table style=\"height: 181px; width: 866.75px;\">\n<tbody>\n<tr>\n<td style=\"width: 247px;\"> CMS</td>\n<td style=\"width: 247px;\"> Einsatz</td>\n<td style=\"width: 450px;\">URL</td>\n<td style=\"width: 618.75px;\">Kommentar</td>\n</tr>\n<tr>\n<td style=\"width: 247px;\">Publii</td>\n<td style=\"width: 247px;\">Fancy-JS-Hipster </td>\n<td style=\"width: 450px;\">https://{domain}/feed.xml</td>\n<td style=\"width: 618.75px;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 247px;\">Wordpress</td>\n<td style=\"width: 247px;\"> Das Jedermanns-CMS</td>\n<td style=\"width: 450px;\"> https://{domain}/feed/</td>\n<td style=\"width: 618.75px;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 247px;\">Open2C</td>\n<td style=\"width: 247px;\"> Kommunen in Bayern</td>\n<td style=\"width: 450px;\">https://{domain}/export/rss.php?id=1</td>\n<td style=\"width: 618.75px;\">id=1 sind die Pressemitteilungen, die anderen hab ich noch nie gesehen, dass sie benutzt werden.</td>\n</tr>\n<tr>\n<td style=\"width: 247px;\">Django CMS Community</td>\n<td style=\"width: 247px;\"> Landesfeuerwehrverband</td>\n<td style=\"width: 450px;\">keine Ahnung</td>\n<td style=\"width: 618.75px;\"> </td>\n</tr>\n</tbody>\n</table>\n<p>Die Situation mit Django CMS ist mir selbst ein Rätsel, warum sie die Feeds nur in der bezahlten Version anbieten, in der kostenlosen aber nur die Sitemap enthalten ist. Vermutlich ist es die Sitemap zur SEO wesentlich wichtiger als die Nutzer ihres Endprodukts auf dem laufenden zu halten.  Naja vielleicht hab ich mal Lust mich in python reinzufrimmel und es ihnen als PR unterzujubeln. Dann müssen natürlich nur noch alle Seiten updaten, die ich abbonieren will... Ich glaub da net dran.</p>\n<p> Das war erst mal der erste Schlag, es gibt noch ein paar andere Dienstleister, die ihren eigenen Eintrag verdient haben. Aber jetzt erstmal weiter mit dem zusammensuchen meiner Lieblingsfeeds.<br><br><br></p>",
+            "author": {
+                "name": "Manuel Müller"
+            },
+            "tags": [
+                   "wordpress",
+                   "tiny tiny rss",
+                   "rss",
+                   "rant",
+                   "publii",
+                   "django",
+                   "cms"
+            ],
+            "date_published": "2020-06-03T20:07:22+02:00",
+            "date_modified": "2020-06-03T21:05:05+02:00"
+        }
+    ]
+}

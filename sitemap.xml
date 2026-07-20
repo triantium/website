@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://triantium.ddns.net/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://triantium.ddns.net/</loc>
+</url>
+<url>
+<loc>https://triantium.ddns.net/about-me.html</loc>
+<lastmod>2024-09-10T17:38:16+02:00</lastmod>
+</url>
+<url>
+<loc>https://triantium.ddns.net/die-jagd-nach-rss-feeds.html</loc>
+<lastmod>2020-06-03T21:05:05+02:00</lastmod>
+</url>
+</urlset>
