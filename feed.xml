@@ -3,7 +3,7 @@
     <title>triantium.ddns.net</title>
     <link href="https://triantium.ddns.net/feed.xml" rel="self" />
     <link href="https://triantium.ddns.net" />
-    <updated>2026-07-20T15:35:56+02:00</updated>
+    <updated>2026-07-20T15:38:22+02:00</updated>
     <author>
         <name>Manuel Müller</name>
     </author>
@@ -30,6 +30,8 @@
 <ul>
 <li>Sprachen: Java, C, Lua, Go, Rust</li>
 <li>Continous Integration und Development mit Jenkins und TektonCD.</li>
+<li>Kubernetes und Docker basierte Deployements</li>
+<li>If it works, why not improve it further.</li>
 <li>Running on Linux (Ubuntu/Arch)</li>
 <li>Wenn ihr Fragen zu Windows habt braucht ihr jemand anderen.</li>
 </ul>
