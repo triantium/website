@@ -3,7 +3,7 @@
     <title>triantium.ddns.net</title>
     <link href="https://triantium.ddns.net/feed.xml" rel="self" />
     <link href="https://triantium.ddns.net" />
-    <updated>2024-09-10T17:38:16+02:00</updated>
+    <updated>2026-07-20T15:35:56+02:00</updated>
     <author>
         <name>Manuel Müller</name>
     </author>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Geboren in Neuburg, gezogen in einem kleinen 'germanischen-bayrischen' Dorf , Abi im Descartes Gymnasiuim, Grundwehrdienst bei der Luftwaffe, Abstecher in den Maschinenbau und versunken in der Informatik.</p>
+                <p>Geboren in Neuburg, gezogen in einem kleinen 'germanischen-bayrischen' Dorf , Abi im Descartes Gymnasiuim, Grundwehrdienst bei der Luftwaffe, Abstecher in den Maschinenbau und versunken in der Informatik. </p>
 <p>Seit ~2016 Softwareentwickler und Operator in der <a href="https://geekinbusiness.de/entwickler/team.html#top">Geek in Business GmbH</a></p>
 <ul>
 <li>Sprachen: Java, C, Lua, Go, Rust</li>
@@ -34,7 +34,7 @@
 <li>Wenn ihr Fragen zu Windows habt braucht ihr jemand anderen.</li>
 </ul>
 <p>Seit 2004 in der FF Bertoldsheim</p>
-<p>Von 2015 - 2022 Kommandant der FF Bertoldsheim</p>
+<p>Von 2015 - 2022 stellvertretender Kommandant der FF Bertoldsheim</p>
 <p>Seit 2022 Kommandant der FF Bertoldsheim</p>
 <ul>
 <li>Anpassung an das aktuelle und zukünftige Einsatzgeschehen</li>
@@ -53,6 +53,7 @@
 </ul>
 <p>Hobbies:</p>
 <ul>
+<li>Sich mit Kind und Freundin die Nacht um die Ohren schlagen</li>
 <li>Gaming (RTS, Adventures, Roguelikes)</li>
 <li>Konzerte und Festivals (hauptsächlich Metal)</li>
 <li>3D-Druck und Design</li>
@@ -62,7 +63,6 @@
 <p>Backlog:</p>
 <ul>
 <li>Ein ganzer Stapel Bücher die ungelesen rumliegen</li>
-<li><span style="text-decoration: line-through;">Rucksacktrip nach Kambodscha und ans Nordkap</span></li>
 <li>Der Steam Pile of Shame</li>
 <li>---</li>
 </ul>
@@ -70,7 +70,7 @@
 <ul>
 <li>Technik allgemein</li>
 <li>Lokalpolitik und sonstige spaßige Themen aus der Umgebung</li>
-<li>Landwirtschaft (ohne Simulator)</li>
+<li>Meshtastic</li>
 <li>Wetter</li>
 </ul>
 <p>Links:</p>
@@ -84,7 +84,7 @@
 <p>Messenger:</p>
 <ul>
 <li>Jami (3414c082c51dabfda184a9d74f58a635c062c8b2)</li>
-<li>Signal </li>
+<li>Signal</li>
 <li>Good Old Email (<a href="https://triantium.ddns.net/public.pgp" download>GPG</a>)</li>
 </ul>
 <p> </p>
